@@ -1,0 +1,8 @@
+{
+    "fruit": [
+    {"name": "banana", "price": 1000, "item_left": 5},
+    {"name": "apple", "price": 2000, "item_left":4},
+    {"name": "orange", "price": 3000,"item_left":3},
+    {"name": "kiwi", "price": 2500, "item_left":2}
+    ]
+}
